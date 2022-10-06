@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">Hugo 主题 MemE</title>
     <subtitle type="html">MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</subtitle>
-    <updated>2022-10-06T10:18:23&#43;08:00</updated>
+    <updated>2022-10-06T16:03:55&#43;08:00</updated>
     <id>https://wodewoshiwo.github.io/</id>
     <link rel="alternate" type="text/html" href="https://wodewoshiwo.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://wodewoshiwo.github.io/atom.xml" />
@@ -16,31 +16,4 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.104.3">Hugo</generator>
-        <entry>
-            <title type="text">Hello World</title>
-            <link rel="alternate" type="text/html" href="https://wodewoshiwo.github.io/posts/hello-world/" />
-            <id>https://wodewoshiwo.github.io/posts/hello-world/</id>
-            <updated>2022-10-06T09:47:22&#43;08:00</updated>
-            <published>2022-10-06T09:47:22&#43;08:00</published>
-            <author>
-                    <name>reuixiy</name>
-                    <uri>https://io-oi.me/</uri>
-                    <email>reuixiy@gmail.com</email>
-                    </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html"></summary>
-            
-                <content type="html"></content>
-            
-            
-            
-            
-            
-                
-                    
-                
-                    
-                
-            
-        </entry>
-    
 </feed>

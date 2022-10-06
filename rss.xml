@@ -23,34 +23,10 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Thu, 06 Oct 2022 10:18:23 &#43;0800</lastBuildDate>
+        <lastBuildDate>Thu, 06 Oct 2022 16:03:55 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://wodewoshiwo.github.io/rss.xml" />
         
-        
-            <item>
-                <title>Hello World</title>
-                <link>https://wodewoshiwo.github.io/posts/hello-world/</link>
-                <guid isPermaLink="true">https://wodewoshiwo.github.io/posts/hello-world/</guid>
-                <pubDate>Thu, 06 Oct 2022 09:47:22 &#43;0800</pubDate>
-                
-                    <author>reuixiy@gmail.com (reuixiy)</author>
-                
-                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
-                
-                    <description></description>
-                
-                
-                
-                
-                
-                    
-                        
-                    
-                        
-                    
-                
-            </item>
         
     </channel>
 </rss>
