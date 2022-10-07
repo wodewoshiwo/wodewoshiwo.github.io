@@ -9,7 +9,7 @@
     <channel>
         <title>初之</title>
         <link>https://wodewoshiwo.github.io/</link>
-        <description>这是 reuixiy 的生活与技术博客！怎么记住 reuixiy 呢？其实就是「一休儿」的拼音，只不过顺序是从右往左……</description>
+        <description>浏览“缠中说禅”更多文章请点击进入缠中说禅</description>
         <generator>Hugo 0.104.3 https://gohugo.io/</generator>
         
             <language>zh-CN</language>
@@ -23,7 +23,7 @@
         
             <copyright>浏览“缠中说禅”更多文章请点击进入[缠中说禅](https://blog.sina.com.cn/chzhshch)</copyright>
         
-        <lastBuildDate>Fri, 07 Oct 2022 21:14:42 &#43;0800</lastBuildDate>
+        <lastBuildDate>Fri, 07 Oct 2022 22:58:40 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://wodewoshiwo.github.io/rss.xml" />
         
@@ -81,13 +81,7 @@
                                 
                                 
                                 
-                                    <category domain="https://wodewoshiwo.github.io/tags/introspection/">introspection</category>
-                                
-                            
-                                
-                                
-                                
-                                    <category domain="https://wodewoshiwo.github.io/tags/memories/">memories</category>
+                                    <category domain="https://wodewoshiwo.github.io/tags/%E8%AE%BA%E8%AF%AD%E8%AF%A6%E8%A7%A3/">《论语》详解</category>
                                 
                             
                         
@@ -145,13 +139,7 @@
                                 
                                 
                                 
-                                    <category domain="https://wodewoshiwo.github.io/tags/introspection/">introspection</category>
-                                
-                            
-                                
-                                
-                                
-                                    <category domain="https://wodewoshiwo.github.io/tags/memories/">memories</category>
+                                    <category domain="https://wodewoshiwo.github.io/tags/%E8%AE%BA%E8%AF%AD%E8%AF%A6%E8%A7%A3/">《论语》详解</category>
                                 
                             
                         
