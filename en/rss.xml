@@ -7,7 +7,7 @@
 
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>初之</title>
+        <title>chuzhi</title>
         <link>https://wodewoshiwo.github.io/en/</link>
         <description>Blog of reuixiy in English.</description>
         <generator>Hugo 0.104.3 https://gohugo.io/</generator>
@@ -23,7 +23,7 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
         
-        <lastBuildDate>Thu, 06 Oct 2022 21:42:36 &#43;0800</lastBuildDate>
+        <lastBuildDate>Fri, 07 Oct 2022 12:20:10 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://wodewoshiwo.github.io/en/rss.xml" />
         
