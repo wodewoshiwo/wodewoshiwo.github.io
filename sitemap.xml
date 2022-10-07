@@ -1,14 +1,59 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <sitemap>
-    <loc>https://wodewoshiwo.github.io/zh/sitemap.xml</loc>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://wodewoshiwo.github.io/en/sitemap.xml</loc>
-    
-  </sitemap>
-  
-</sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://wodewoshiwo.github.io/coldplay/fix-you-live/</loc>
+    <lastmod>2022-09-29T22:12:31+08:00</lastmod>
+  </url><url>
+    <loc>https://wodewoshiwo.github.io/coldplay/paradise/</loc>
+    <lastmod>2022-09-29T22:12:31+08:00</lastmod>
+  </url><url>
+    <loc>https://wodewoshiwo.github.io/coldplay/paradise-live/</loc>
+    <lastmod>2022-09-29T22:12:31+08:00</lastmod>
+  </url><url>
+    <loc>https://wodewoshiwo.github.io/coldplay/yellow/</loc>
+    <lastmod>2022-09-29T22:12:31+08:00</lastmod>
+  </url><url>
+    <loc>https://wodewoshiwo.github.io/coldplay/yellow-live/</loc>
+    <lastmod>2022-09-29T22:12:31+08:00</lastmod>
+  </url><url>
+    <loc>https://wodewoshiwo.github.io/coldplay/the-scientist/</loc>
+    <lastmod>2022-09-29T22:12:31+08:00</lastmod>
+  </url><url>
+    <loc>https://wodewoshiwo.github.io/coldplay/the-scientist-live/</loc>
+    <lastmod>2022-09-29T22:12:31+08:00</lastmod>
+  </url><url>
+    <loc>https://wodewoshiwo.github.io/coldplay/swallowed-in-the-sea-live/</loc>
+    <lastmod>2022-09-29T22:12:31+08:00</lastmod>
+  </url><url>
+    <loc>https://wodewoshiwo.github.io/about/</loc>
+    <lastmod>2022-10-06T10:19:15+08:00</lastmod>
+  </url><url>
+    <loc>https://wodewoshiwo.github.io/</loc>
+    <lastmod>2022-10-07T02:25:09+08:00</lastmod>
+  </url><url>
+    <loc>https://wodewoshiwo.github.io/sharendao/resigned-my-first-job/</loc>
+    <lastmod>2022-10-07T02:25:09+08:00</lastmod>
+  </url><url>
+    <loc>https://wodewoshiwo.github.io/tags/introspection/</loc>
+    <lastmod>2022-10-07T02:25:09+08:00</lastmod>
+  </url><url>
+    <loc>https://wodewoshiwo.github.io/tags/memories/</loc>
+    <lastmod>2022-10-07T02:25:09+08:00</lastmod>
+  </url><url>
+    <loc>https://wodewoshiwo.github.io/sharendao/</loc>
+    <lastmod>2022-10-07T02:25:09+08:00</lastmod>
+  </url><url>
+    <loc>https://wodewoshiwo.github.io/tags/</loc>
+    <lastmod>2022-10-07T02:25:09+08:00</lastmod>
+  </url><url>
+    <loc>https://wodewoshiwo.github.io/tags/coldplay/</loc>
+    <lastmod>2022-09-29T22:12:31+08:00</lastmod>
+  </url><url>
+    <loc>https://wodewoshiwo.github.io/coldplay/</loc>
+    <lastmod>2018-11-10T00:05:20+08:00</lastmod>
+  </url><url>
+    <loc>https://wodewoshiwo.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+</urlset>
