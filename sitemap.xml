@@ -392,10 +392,11 @@
     <loc>https://wodewoshiwo.github.io/huorenjian/lunyu5/</loc>
     <lastmod>2022-10-10T19:26:54+08:00</lastmod>
   </url><url>
-    <loc>https://wodewoshiwo.github.io/yincang/</loc>
+    <loc>https://wodewoshiwo.github.io/categories/</loc>
     <lastmod>2022-10-21T10:04:58+08:00</lastmod>
+    <priority>0</priority>
   </url><url>
-    <loc>https://wodewoshiwo.github.io/yincang/baihuawen2/</loc>
+    <loc>https://wodewoshiwo.github.io/categories/baihuawen2/</loc>
     <lastmod>2022-10-21T10:04:58+08:00</lastmod>
   </url><url>
     <loc>https://wodewoshiwo.github.io/huorenjian/lunyu4/</loc>
@@ -439,8 +440,5 @@
   </url><url>
     <loc>https://wodewoshiwo.github.io/sharendao/ren1/</loc>
     <lastmod>2022-10-11T14:51:41+08:00</lastmod>
-  </url><url>
-    <loc>https://wodewoshiwo.github.io/categories/</loc>
-    <priority>0</priority>
   </url>
 </urlset>
