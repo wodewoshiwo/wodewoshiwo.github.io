@@ -6,7 +6,7 @@
     <lastmod>2022-10-11T11:15:31+08:00</lastmod>
   </url><url>
     <loc>https://wodewoshiwo.github.io/</loc>
-    <lastmod>2022-10-21T10:15:01+08:00</lastmod>
+    <lastmod>2022-10-21T17:11:16+08:00</lastmod>
   </url><url>
     <loc>https://wodewoshiwo.github.io/tags/%E8%AE%BA%E8%AF%AD%E8%AF%A6%E8%A7%A3/</loc>
     <lastmod>2022-10-21T10:15:01+08:00</lastmod>
@@ -57,10 +57,10 @@
     <lastmod>2022-10-19T13:06:36+08:00</lastmod>
   </url><url>
     <loc>https://wodewoshiwo.github.io/chzhshch/</loc>
-    <lastmod>2022-10-19T23:04:11+08:00</lastmod>
+    <lastmod>2022-10-21T17:11:16+08:00</lastmod>
   </url><url>
     <loc>https://wodewoshiwo.github.io/chzhshch/yuanli/</loc>
-    <lastmod>2022-10-19T23:04:11+08:00</lastmod>
+    <lastmod>2022-10-21T17:11:16+08:00</lastmod>
   </url><url>
     <loc>https://wodewoshiwo.github.io/sharendao/gupiao5/</loc>
     <lastmod>2022-10-19T13:54:34+08:00</lastmod>
@@ -386,17 +386,16 @@
     <loc>https://wodewoshiwo.github.io/huorenjian/lunyu7/</loc>
     <lastmod>2022-10-10T09:26:18+08:00</lastmod>
   </url><url>
+    <loc>https://wodewoshiwo.github.io/chzhshch/shuijingfang/</loc>
+    <lastmod>2022-10-21T16:00:29+08:00</lastmod>
+  </url><url>
     <loc>https://wodewoshiwo.github.io/huorenjian/lunyu6/</loc>
     <lastmod>2022-10-18T15:20:43+08:00</lastmod>
   </url><url>
     <loc>https://wodewoshiwo.github.io/huorenjian/lunyu5/</loc>
     <lastmod>2022-10-10T19:26:54+08:00</lastmod>
   </url><url>
-    <loc>https://wodewoshiwo.github.io/categories/</loc>
-    <lastmod>2022-10-21T10:04:58+08:00</lastmod>
-    <priority>0</priority>
-  </url><url>
-    <loc>https://wodewoshiwo.github.io/categories/baihuawen2/</loc>
+    <loc>https://wodewoshiwo.github.io/chzhshch/baihuawen2/</loc>
     <lastmod>2022-10-21T10:04:58+08:00</lastmod>
   </url><url>
     <loc>https://wodewoshiwo.github.io/huorenjian/lunyu4/</loc>
@@ -440,5 +439,8 @@
   </url><url>
     <loc>https://wodewoshiwo.github.io/sharendao/ren1/</loc>
     <lastmod>2022-10-11T14:51:41+08:00</lastmod>
+  </url><url>
+    <loc>https://wodewoshiwo.github.io/categories/</loc>
+    <priority>0</priority>
   </url>
 </urlset>
