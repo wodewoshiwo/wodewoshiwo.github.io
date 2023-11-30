@@ -9,8 +9,8 @@
     <channel>
         <title>初之</title>
         <link>https://chzh.me/</link>
-        <description>浏览“缠中说禅”更多文章请点击进入[缠中说禅](https://chzh.me/chzhshch-blog/sina/1134/)</description>
-        <generator>Hugo 0.117.0 https://gohugo.io/</generator>
+        <description>浏览“缠中说禅”更多文章请点击进入缠中说禅</description>
+        <generator>Hugo 0.120.4 https://gohugo.io/</generator>
         
             <language>zh-CN</language>
         
@@ -23,7 +23,7 @@
         
             <copyright>事物就是事物，人只不过是人。</copyright>
         
-        <lastBuildDate>Mon, 16 Oct 2023 17:21:25 &#43;0800</lastBuildDate>
+        <lastBuildDate>Thu, 30 Nov 2023 14:04:10 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://chzh.me/rss.xml" />
         
