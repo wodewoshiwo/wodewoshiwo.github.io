@@ -4,13 +4,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">初之</title>
     <subtitle type="html">浏览“缠中说禅”更多文章请点击进入缠中说禅</subtitle>
-    <updated>2025-03-15T19:12:19&#43;08:00</updated>
-    <id>http://localhost:1313/</id>
-    <link rel="alternate" type="text/html" href="http://localhost:1313/" />
-    <link rel="self" type="application/atom&#43;xml" href="http://localhost:1313/atom.xml" />
+    <updated>2025-03-16T16:09:03&#43;08:00</updated>
+    <id>https://chzh.me/</id>
+    <link rel="alternate" type="text/html" href="https://chzh.me/" />
+    <link rel="self" type="application/atom&#43;xml" href="https://chzh.me/atom.xml" />
     <author>
             <name>初之</name>
-            <uri>http://localhost:1313/</uri>
+            <uri>https://chzh.me/</uri>
             
                 <email>wodewoshiwo@gmail.com</email>
             </author>
@@ -18,8 +18,8 @@
     <generator uri="https://gohugo.io/" version="0.123.8">Hugo</generator>
         <entry>
             <title type="text">教你炒股票108：何谓底部？从月线看中期走势演化</title>
-            <link rel="alternate" type="text/html" href="http://localhost:1313/sharendao/gupiao108/" />
-            <id>http://localhost:1313/sharendao/gupiao108/</id>
+            <link rel="alternate" type="text/html" href="https://chzh.me/sharendao/gupiao108/" />
+            <id>https://chzh.me/sharendao/gupiao108/</id>
             <updated>2023-03-24T13:51:53&#43;08:00</updated>
             <published>2008-08-29T09:15:01&#43;08:00</published>
             <author>
@@ -53,7 +53,7 @@
                     
                     
                         
-                            <category scheme="http://localhost:1313/sharendao/" term="sharendao\" label="sharendao\" />
+                            <category scheme="https://chzh.me/sharendao/" term="sharendao\" label="sharendao\" />
                         
                     
                 
@@ -74,8 +74,8 @@
     
         <entry>
             <title type="text">教你炒股票107：如何操作短线反弹</title>
-            <link rel="alternate" type="text/html" href="http://localhost:1313/sharendao/gupiao107/" />
-            <id>http://localhost:1313/sharendao/gupiao107/</id>
+            <link rel="alternate" type="text/html" href="https://chzh.me/sharendao/gupiao107/" />
+            <id>https://chzh.me/sharendao/gupiao107/</id>
             <updated>2023-03-24T13:50:30&#43;08:00</updated>
             <published>2008-08-19T16:10:39&#43;08:00</published>
             <author>
@@ -110,7 +110,7 @@
                     
                     
                         
-                            <category scheme="http://localhost:1313/sharendao/" term="sharendao\" label="sharendao\" />
+                            <category scheme="https://chzh.me/sharendao/" term="sharendao\" label="sharendao\" />
                         
                     
                 
@@ -131,8 +131,8 @@
     
         <entry>
             <title type="text">教你炒股票106：均线、轮动与缠中说禅板块强弱指标</title>
-            <link rel="alternate" type="text/html" href="http://localhost:1313/sharendao/gupiao106/" />
-            <id>http://localhost:1313/sharendao/gupiao106/</id>
+            <link rel="alternate" type="text/html" href="https://chzh.me/sharendao/gupiao106/" />
+            <id>https://chzh.me/sharendao/gupiao106/</id>
             <updated>2023-03-24T13:48:05&#43;08:00</updated>
             <published>2008-07-10T12:12:22&#43;08:00</published>
             <author>
@@ -172,7 +172,7 @@
                     
                     
                         
-                            <category scheme="http://localhost:1313/sharendao/" term="sharendao\" label="sharendao\" />
+                            <category scheme="https://chzh.me/sharendao/" term="sharendao\" label="sharendao\" />
                         
                     
                 
@@ -193,8 +193,8 @@
     
         <entry>
             <title type="text">教你炒股票105：远离聪明、机械操作</title>
-            <link rel="alternate" type="text/html" href="http://localhost:1313/sharendao/gupiao105/" />
-            <id>http://localhost:1313/sharendao/gupiao105/</id>
+            <link rel="alternate" type="text/html" href="https://chzh.me/sharendao/gupiao105/" />
+            <id>https://chzh.me/sharendao/gupiao105/</id>
             <updated>2023-03-24T13:45:42&#43;08:00</updated>
             <published>2008-04-13T21:51:14&#43;08:00</published>
             <author>
@@ -228,7 +228,7 @@
                     
                     
                         
-                            <category scheme="http://localhost:1313/sharendao/" term="sharendao\" label="sharendao\" />
+                            <category scheme="https://chzh.me/sharendao/" term="sharendao\" label="sharendao\" />
                         
                     
                 
@@ -249,8 +249,8 @@
     
         <entry>
             <title type="text">教你炒股票104：几何结构与能量动力结构1</title>
-            <link rel="alternate" type="text/html" href="http://localhost:1313/sharendao/gupiao104/" />
-            <id>http://localhost:1313/sharendao/gupiao104/</id>
+            <link rel="alternate" type="text/html" href="https://chzh.me/sharendao/gupiao104/" />
+            <id>https://chzh.me/sharendao/gupiao104/</id>
             <updated>2023-03-24T13:41:15&#43;08:00</updated>
             <published>2008-03-26T15:47:42&#43;08:00</published>
             <author>
@@ -284,7 +284,7 @@
                     
                     
                         
-                            <category scheme="http://localhost:1313/sharendao/" term="sharendao\" label="sharendao\" />
+                            <category scheme="https://chzh.me/sharendao/" term="sharendao\" label="sharendao\" />
                         
                     
                 
@@ -305,8 +305,8 @@
     
         <entry>
             <title type="text">教你炒股票103：学屠龙术前先学好防狼术</title>
-            <link rel="alternate" type="text/html" href="http://localhost:1313/sharendao/gupiao103/" />
-            <id>http://localhost:1313/sharendao/gupiao103/</id>
+            <link rel="alternate" type="text/html" href="https://chzh.me/sharendao/gupiao103/" />
+            <id>https://chzh.me/sharendao/gupiao103/</id>
             <updated>2023-03-24T13:40:19&#43;08:00</updated>
             <published>2008-03-19T15:58:15&#43;08:00</published>
             <author>
@@ -339,7 +339,7 @@
                     
                     
                         
-                            <category scheme="http://localhost:1313/sharendao/" term="sharendao\" label="sharendao\" />
+                            <category scheme="https://chzh.me/sharendao/" term="sharendao\" label="sharendao\" />
                         
                     
                 
@@ -360,8 +360,8 @@
     
         <entry>
             <title type="text">教你炒股票102：再说走势必完美</title>
-            <link rel="alternate" type="text/html" href="http://localhost:1313/sharendao/gupiao102/" />
-            <id>http://localhost:1313/sharendao/gupiao102/</id>
+            <link rel="alternate" type="text/html" href="https://chzh.me/sharendao/gupiao102/" />
+            <id>https://chzh.me/sharendao/gupiao102/</id>
             <updated>2023-03-24T13:39:24&#43;08:00</updated>
             <published>2008-03-06T16:10:18&#43;08:00</published>
             <author>
@@ -400,7 +400,7 @@
                     
                     
                         
-                            <category scheme="http://localhost:1313/sharendao/" term="sharendao\" label="sharendao\" />
+                            <category scheme="https://chzh.me/sharendao/" term="sharendao\" label="sharendao\" />
                         
                     
                 
@@ -421,8 +421,8 @@
     
         <entry>
             <title type="text">教你炒股票101：答疑1</title>
-            <link rel="alternate" type="text/html" href="http://localhost:1313/sharendao/gupiao101/" />
-            <id>http://localhost:1313/sharendao/gupiao101/</id>
+            <link rel="alternate" type="text/html" href="https://chzh.me/sharendao/gupiao101/" />
+            <id>https://chzh.me/sharendao/gupiao101/</id>
             <updated>2023-03-24T13:37:27&#43;08:00</updated>
             <published>2008-03-04T16:14:02&#43;08:00</published>
             <author>
@@ -470,7 +470,7 @@
                     
                     
                         
-                            <category scheme="http://localhost:1313/sharendao/" term="sharendao\" label="sharendao\" />
+                            <category scheme="https://chzh.me/sharendao/" term="sharendao\" label="sharendao\" />
                         
                     
                 
@@ -491,8 +491,8 @@
     
         <entry>
             <title type="text">教你炒股票100：中医、兵法、诗歌、操作3</title>
-            <link rel="alternate" type="text/html" href="http://localhost:1313/sharendao/gupiao100/" />
-            <id>http://localhost:1313/sharendao/gupiao100/</id>
+            <link rel="alternate" type="text/html" href="https://chzh.me/sharendao/gupiao100/" />
+            <id>https://chzh.me/sharendao/gupiao100/</id>
             <updated>2023-03-24T13:35:25&#43;08:00</updated>
             <published>2008-02-25T16:32:23&#43;08:00</published>
             <author>
@@ -528,7 +528,7 @@
                     
                     
                         
-                            <category scheme="http://localhost:1313/sharendao/" term="sharendao\" label="sharendao\" />
+                            <category scheme="https://chzh.me/sharendao/" term="sharendao\" label="sharendao\" />
                         
                     
                 
@@ -549,8 +549,8 @@
     
         <entry>
             <title type="text">教你炒股票99：走势结构的两重表里关系3</title>
-            <link rel="alternate" type="text/html" href="http://localhost:1313/sharendao/gupiao99/" />
-            <id>http://localhost:1313/sharendao/gupiao99/</id>
+            <link rel="alternate" type="text/html" href="https://chzh.me/sharendao/gupiao99/" />
+            <id>https://chzh.me/sharendao/gupiao99/</id>
             <updated>2023-03-24T13:33:58&#43;08:00</updated>
             <published>2008-02-18T16:19:16&#43;08:00</published>
             <author>
@@ -586,7 +586,7 @@
                     
                     
                         
-                            <category scheme="http://localhost:1313/sharendao/" term="sharendao\" label="sharendao\" />
+                            <category scheme="https://chzh.me/sharendao/" term="sharendao\" label="sharendao\" />
                         
                     
                 
