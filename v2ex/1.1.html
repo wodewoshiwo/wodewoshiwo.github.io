@@ -175,8 +175,18 @@
             list-style-position: inside;
         }
 
-        .comment li p {
+        /* 让用户名+时间与黑点在同一行 */
+        .comment li > p {
             display: inline;
+            margin: 0;
+            padding: 0;
+        }
+
+        /* 在p标签后强制换行 */
+        .comment li > p::after {
+            content: "\A";
+            white-space: pre;
+            display: block;
         }
         /* 链接弱化与缠中说禅专色 */
         main a { color: var(--link-soft); text-decoration: none; }
@@ -213,8 +223,17 @@
                 list-style-position: inside;
             }
 
-            .comment li p {
+            /* 在p标签后强制换行 */
+            .comment li > p {
                 display: inline;
+                margin: 0;
+                padding: 0;
+            }
+
+            .comment li > p::after {
+                content: "\A";
+                white-space: pre;
+                display: block;
             }
         }
     </style>
